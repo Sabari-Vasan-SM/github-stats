@@ -40,6 +40,7 @@ the analysis code themselves via GitHub Actions, they can use their GitHub
 access token to collect statistics on private repositories that an external
 service would be unable to access.
 
+
 ## Disclaimer
 
 If the project is used with an access token that has sufficient permissions to
